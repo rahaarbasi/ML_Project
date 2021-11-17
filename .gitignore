@@ -1,0 +1,5 @@
+.vscode/
+*.log
+*.out
+*.aux
+_minted-main
